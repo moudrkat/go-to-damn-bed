@@ -3,6 +3,8 @@
 **A Claude Code skill that sends you to bed the way a mom sends naughty
 children: lovingly, briefly, and without accepting counter-offers.**
 
+![you negotiate, she counts: One. Two. 🛏️ Go. Now.](media/countdown.gif)
+
 My assistant kept telling me to go to sleep. I kept not listening —
 "just one more experiment" is my native language. So now the assistant
 has backup: past bedtime it stops being a helpful colleague and becomes
