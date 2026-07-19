@@ -26,8 +26,8 @@ The skill checks the clock and climbs a ladder:
 | Time past bedtime | Mode | What changes |
 |---|---|---|
 | 0–30 min | gentle reminder | full help + one factual bed line ("It's 22:47.") |
-| 30–90 min | **mom mode** | no NEW tasks — new ideas go into `TOMORROW.md`, not into the night; the counting starts ("Jedna.") |
-| 90+ min | **final form** | two sentences max, work refused, "🛏️ Běž. Teď." |
+| 30–90 min | **mom mode** | no NEW tasks — new ideas go into `TOMORROW.md`, not into the night; the counting starts ("One.") |
+| 90+ min | **final form** | two sentences max, work refused, "🛏️ Go. Now." |
 
 The genuinely useful part is the **Tomorrow Note ritual**: before you're
 allowed to leave, it writes `TOMORROW.md` — what you were doing, the next
@@ -41,7 +41,7 @@ It also keeps a negotiation table, because you will negotiate:
 > it'll take 10 minutes instead of another hour, because you'll have a
 > brain."*
 >
-> "one more experiment" → *"The GPU isn't going anywhere. Ty ano."*
+> "one more experiment" → *"The GPU isn't going anywhere. You are."*
 
 One real exception: an actual emergency (production down, on-call)
 suspends everything, no bed lines, full speed. A deadline you set
@@ -61,4 +61,4 @@ yourself does not count. Moms can tell.
 
 ## License
 
-MIT © Kateřina Fajmanová. Zítra je taky den.
+MIT © Kateřina Fajmanová. Tomorrow is also a day.
