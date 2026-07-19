@@ -1,0 +1,9 @@
+{
+  "name": "go-to-damn-bed",
+  "description": "Sends you to bed the way a mom sends naughty children: lovingly, briefly, and without accepting counter-offers. Saves your work into TOMORROW.md first.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kateřina Fajmanová",
+    "url": "https://github.com/moudrkat"
+  }
+}
